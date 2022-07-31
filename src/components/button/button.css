@@ -1,0 +1,22 @@
+.buttoncard {
+    width: 167px;
+    height: 80px;
+    background: #6278F7;
+    border-radius: 10px;
+    border: none;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    box-sizing: border-box;
+    color: #FFFF;
+    margin-top: 40px;
+    margin-bottom: 32px;
+    cursor: pointer;
+    
+}
+
+.buttoncard:active{
+    color: #95FFD4;
+}
+

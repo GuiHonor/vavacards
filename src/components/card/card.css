@@ -1,0 +1,50 @@
+.container {
+    width: 262px;
+    height: 272px;
+    background-color:#ffff;
+    margin: 10px 20px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+   
+    
+}
+
+.container img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -40px;
+    
+   
+}
+
+.imgBackground {
+    
+    width: 262px;
+    height: 91px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    margin-bottom: 100px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+   
+}
+
+.text h1 {
+    color:#6278F7;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    line-height: 5px;
+}
+
+.text h2 {
+    color: #212121;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;  
+
+}
