@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+# Material de engenharia reversa: nao versionar (APK e proprietario; capturas contem PIN/MAC/localizacao)
+*.apk
+*.xapk
+apk/
+decompiled/
+captures/*
+!captures/.gitkeep
