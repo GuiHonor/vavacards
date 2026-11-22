@@ -39,7 +39,7 @@ Intervalo entre escritas: 50-60 ms.
 
 ## Perguntas em aberto
 
-1. Nossa moto anuncia `RE_DISP`? Ou a Hunter nova usa outro hardware?
+1. ~~Nossa moto anuncia `RE_DISP`?~~ Confirmado: a Hunter 350 2026/27 anuncia `RE_DISP`, ou seja, é o Pod conhecido.
 2. Existe algum comando para enviar pixels/bitmap? As fontes dizem que não: o display
    usa uma tabela fixa de glifos na flash, endereçada por 1 byte.
 3. O que são os ícones nas faixas não testadas (`0B-13`, `23-2A`, `32-3B`, `45-FE`)?
